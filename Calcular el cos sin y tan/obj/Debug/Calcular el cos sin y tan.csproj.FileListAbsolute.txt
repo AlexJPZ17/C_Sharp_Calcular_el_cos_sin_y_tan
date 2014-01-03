@@ -1,0 +1,10 @@
+C:\Users\Alex\AppData\Local\Temporary Projects\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe.config
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\bin\Debug\Calcular el cos sin y tan.pdb
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.csprojResolveAssemblyReference.cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Form1.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular_el_cos_sin_y_tan.Properties.Resources.resources
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.csproj.GenerateResource.Cache
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.exe
+E:\Mis Documentos\Projects Visual Studio 2012\Visual C#\Claces\Forms\AJ Programer\Calcular el cos sin y tan\Calcular el cos sin y tan\obj\Debug\Calcular el cos sin y tan.pdb
